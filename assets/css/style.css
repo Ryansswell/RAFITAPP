@@ -1,5 +1,20 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
 .section {
     background-color: aquamarine;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.header {
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    background-color: chocolate;
+    line-height: 40px;
+    line-height: 35px;
+    font-size: 18px;
+    font-weight: bolder;
 }
 
 #unique {
